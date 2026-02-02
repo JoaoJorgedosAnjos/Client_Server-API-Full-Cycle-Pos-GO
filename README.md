@@ -33,8 +33,8 @@ O objetivo é criar dois sistemas (`client.go` e `server.go`) que trocam informa
 
 ```bash
 # Clone o projeto
-git clone <seu-link-do-github-aqui>
-cd <nome-da-pasta>
+git clone https://github.com/JoaoJorgedosAnjos/Client_Server-API-Full-Cycle-Pos-GO
+cd Client_Server-API-Full-Cycle-Pos-GO
 
 # Baixe as dependências (Driver SQLite)
 go mod tidy
